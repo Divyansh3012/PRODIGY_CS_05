@@ -1,0 +1,70 @@
+Source IP: 199.46.35.126
+Destination IP: 192.168.29.171
+Source Port: 443
+Destination Port: 61589
+Protocol: 6
+Payload: Raw...
+ 
+Source IP: 192.168.29.171
+Destination IP: 199.46.35.126
+Source Port: 61589
+Destination Port: 443
+Protocol: 6
+Payload: ...
+ 
+Source IP: 192.168.29.171
+Destination IP: 155.133.225.20
+Source Port: 61506
+Destination Port: 27031
+Protocol: 6
+Payload: Raw...
+ 
+Source IP: 155.133.225.20
+Destination IP: 192.168.29.171
+Source Port: 27031
+Destination Port: 61506
+Protocol: 6
+Payload: Padding...
+ 
+Source IP: 192.168.29.171
+Destination IP: 20.205.115.102
+Source Port: 61630
+Destination Port: 443
+Protocol: 6
+Payload: ...
+ 
+Source IP: 20.205.115.102
+Destination IP: 192.168.29.171
+Source Port: 443
+Destination Port: 61630
+Protocol: 6
+Payload: ...
+ 
+Source IP: 192.168.29.171
+Destination IP: 20.205.115.102
+Source Port: 61630
+Destination Port: 443
+Protocol: 6
+Payload: ...
+ 
+Source IP: 192.168.29.171
+Destination IP: 20.205.115.102
+Source Port: 61630
+Destination Port: 443
+Protocol: 6
+Payload: Raw...
+ 
+Source IP: 20.205.115.102
+Destination IP: 192.168.29.171
+Source Port: 443
+Destination Port: 61630
+Protocol: 6
+Payload: Raw...
+ 
+Source IP: 20.205.115.102
+Destination IP: 192.168.29.171
+Source Port: 443
+Destination Port: 61630
+Protocol: 6
+Payload: Raw...
+ 
